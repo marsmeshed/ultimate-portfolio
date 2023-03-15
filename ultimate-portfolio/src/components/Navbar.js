@@ -14,20 +14,21 @@ function Navbar() {
   }, [location]);
 
   return (
-  <div className="navbar" id={expandNavbar ? 'open' : 'closed'}>
-    <div className ="toggleButton">
-      <button onClick={() => {
-        setExpandNavbar((prev) => !prev)
+    <div className="navbar" id={expandNavbar ? 'open' : 'closed'}>
+      <div className="toggleButton">
+        <button onClick={() => {
+          setExpandNavbar((prev) => !prev)
         }}>
-        <ReorderIcon />
-      </button>
-    </div>
-    <div className="links">
+          <ReorderIcon />
+        </button>
+      </div>
+      <div className="links">
         <Link to="/">Home</Link>
-        <Link to="/projects"> Projects </Link>
-        <Link to="/experience"> Experience </Link>
+        <Link to="/projects">Projects</Link>
+        <Link to="/experience">Experience</Link>
+        <Link to="/contact">Contact</Link>
+      </div>
     </div>
-  </div>
   );
 }
 

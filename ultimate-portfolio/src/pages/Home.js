@@ -3,6 +3,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from  "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email"
 import myselfImage from '../assets/myself.JPG';
+import resumePdf from '../assets/resume.pdf';
 import "../styles/Home.css";
 
 function Home() {
@@ -10,6 +11,10 @@ function Home() {
 
   const handleAboutClick = () => {
     setShowAbout(!showAbout);
+  }
+
+  const handleResumeClick = () => {
+    window.open(resumePdf);
   }
 
   return (
@@ -36,6 +41,9 @@ function Home() {
             </span>
           </div>
         )}
+        <div className="resume-link" onClick={handleResumeClick}>
+          <h3>Resume</h3>
+        </div>
       </div>
       <div className="skills">
         <h1>Skills</h1>
