@@ -48,10 +48,18 @@
 }
 
 .about-me span {
+  display: block;
+  background-color: #F5F5F5;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
   margin-bottom: 40px;
   font-size: 20px;
   color: #000000;
-  margin-top: 20px;
+}
+
+.prompt > .MuiSvgIcon-root:hover {
+  cursor: pointer;
 }
 
 .myself-image {
