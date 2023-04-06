@@ -12,6 +12,7 @@ https://marsmeshed.github.io/ultimate-portfolio/
 
 Mockup image:
 
+![Screenshot (30)](https://user-images.githubusercontent.com/112605303/225457822-4f1f948d-afa9-486a-a91e-a2e967b16420.png)
 
 
 ## License
