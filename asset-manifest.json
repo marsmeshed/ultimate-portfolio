@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ultimate-portfolio/static/css/main.c99e1704.css",
-    "main.js": "/ultimate-portfolio/static/js/main.f88716ba.js",
+    "main.js": "/ultimate-portfolio/static/js/main.6fc2d9cf.js",
     "static/js/787.b1ca7ae7.chunk.js": "/ultimate-portfolio/static/js/787.b1ca7ae7.chunk.js",
+    "static/media/animaid.png": "/ultimate-portfolio/static/media/animaid.527a4dcf4f326eebdb46.png",
     "static/media/port.png": "/ultimate-portfolio/static/media/port.ada745ccac084fe077bf.png",
     "static/media/myself.JPG": "/ultimate-portfolio/static/media/myself.c6a43095deb37d69d60d.JPG",
     "static/media/orm.png": "/ultimate-portfolio/static/media/orm.754dbc65df63d8dc936f.png",
     "static/media/weather.png": "/ultimate-portfolio/static/media/weather.19ecce9c903de9ee49c2.png",
     "static/media/schedule.png": "/ultimate-portfolio/static/media/schedule.e4bcf23c875c23942c46.png",
     "static/media/resume.pdf": "/ultimate-portfolio/static/media/resume.7677355acde0e25ef5ed.pdf",
-    "static/media/techBlog.png": "/ultimate-portfolio/static/media/techBlog.f93995ad7abacbcde4d7.png",
     "static/media/notes.png": "/ultimate-portfolio/static/media/notes.8fcaf151083bd7d78e20.png",
     "index.html": "/ultimate-portfolio/index.html",
     "main.c99e1704.css.map": "/ultimate-portfolio/static/css/main.c99e1704.css.map",
-    "main.f88716ba.js.map": "/ultimate-portfolio/static/js/main.f88716ba.js.map",
+    "main.6fc2d9cf.js.map": "/ultimate-portfolio/static/js/main.6fc2d9cf.js.map",
     "787.b1ca7ae7.chunk.js.map": "/ultimate-portfolio/static/js/787.b1ca7ae7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c99e1704.css",
-    "static/js/main.f88716ba.js"
+    "static/js/main.6fc2d9cf.js"
   ]
 }
