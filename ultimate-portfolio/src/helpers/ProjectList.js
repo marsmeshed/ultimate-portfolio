@@ -1,4 +1,4 @@
-import techBlog from '../assets/techBlog.png'
+import animaid from '../assets/animaid.png'
 import weatherSite from '../assets/weather.png'
 import notes from '../assets/notes.png'
 import orm from '../assets/orm.png'
@@ -7,9 +7,9 @@ import schedule from '../assets/schedule.png'
 
 export const ProjectList = [
   {
-    name: "Techblog Speedrun, double click for repo!",
-    image: techBlog,
-    githubLink: "https://github.com/marsmeshed/my-tech-blog-14"
+    name: "Anim-Aid, double click for repo!",
+    image: animaid,
+    githubLink: "https://github.com/kabdomora/P3G5"
   },
   {
     name: "Weather Forecast, double click for repo!",
